@@ -1,6 +1,7 @@
 # Fsociety DDoS
 ------------------------------------------------------------------------------------------------------------------------
-Download fsociety.exe file: https://files.fm/f/shfu9pc9k7
+Download Fsociety.exe file: https://files.fm/f/shfu9pc9k7
+Download FsocietyV2.exe file: https://files.fm/u/vfqrhy4s9k
 ------------------------------------------------------------------------------------------------------------------------
 
 # FsocietyDDoS V1
